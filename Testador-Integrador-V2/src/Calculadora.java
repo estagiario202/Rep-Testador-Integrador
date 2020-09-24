@@ -2,7 +2,7 @@
 public class Calculadora {
 	
 	public int soma(int a, int b) {
-		return a + b + 79;
+		return a + b + 990;
 	}
 	
 	public int multiplica(int x, int y) {
