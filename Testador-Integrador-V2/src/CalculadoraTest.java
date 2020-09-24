@@ -9,11 +9,15 @@ public class CalculadoraTest extends TestCase{
 	Calculadora calc = new Calculadora();
 	
 	public void testSoma() {
+		if(false)
+		{
+			int ds = 123;
+		}
 		assertEquals(3, calc.soma(1, 2));
 	}
 	
 	public void testMultiplica(){
-		assertEquals(12,calc.multiplica(4, 3));
+		assertEquals(12,calc.multiplica(true, 4, 3));
 	}
 
 }
