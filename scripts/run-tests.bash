@@ -9,7 +9,7 @@ set -e
 cd "${0%/*}/.."
 
 # let's fake failing test for now 
-echo pwd
+pwd
 echo "Running tests"
 echo "............................" 
 echo "Failed!" && exit 1

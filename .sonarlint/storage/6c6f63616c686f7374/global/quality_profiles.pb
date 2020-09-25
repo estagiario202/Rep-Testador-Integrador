@@ -1,0 +1,49 @@
+
+^
+AXTBGvuxh7Xy-NmOTI89F
+AXTBGvuxh7Xy-NmOTI89	Sonar waycs"C#(º22020-09-24T17:13:25+0000
+a
+AXTBGv4fh7Xy-NmOTJKDI
+AXTBGv4fh7Xy-NmOTJKD	Sonar wayflex"Flex(<22020-09-24T17:13:25+0000
+b
+AXTBGvz8h7Xy-NmOTJEdJ
+AXTBGvz8h7Xy-NmOTJEd	Sonar wayjava"Java(¤22020-09-24T17:13:25+0000
+e
+AXTBGv-Qh7Xy-NmOTJPpM
+AXTBGv-Qh7Xy-NmOTJPp	Sonar wayjs"
+JavaScript(B22020-09-24T17:13:26+0000
+q
+AXTBGv8Jh7Xy-NmOTJMzY
+AXTBGv8Jh7Xy-NmOTJMzSonar way Recommendedjs"
+JavaScript(r22020-09-24T17:13:25+0000
+\
+AXTBGwE9h7Xy-NmOTJTjD
+AXTBGwE9h7Xy-NmOTJTjDrupalphp"PHP(22020-09-24T17:13:26+0000
+[
+AXTBGwDeh7Xy-NmOTJS5C
+AXTBGwDeh7Xy-NmOTJS5PSR-2php"PHP(22020-09-24T17:13:26+0000
+_
+AXTBGwAbh7Xy-NmOTJRoG
+AXTBGwAbh7Xy-NmOTJRo	Sonar wayphp"PHP(;22020-09-24T17:13:26+0000
+a
+AXTBGwG2h7Xy-NmOTJUZI
+AXTBGwG2h7Xy-NmOTJUZ	Sonar waypy"Python( 22020-09-24T17:13:26+0000
+e
+AXTBGwJBh7Xy-NmOTJVdM
+AXTBGwJBh7Xy-NmOTJVd	Sonar wayts"
+TypeScript("22020-09-24T17:13:26+0000
+q
+AXTBGwK6h7Xy-NmOTJXBY
+AXTBGwK6h7Xy-NmOTJXBSonar way recommendedts"
+TypeScript(@22020-09-24T17:13:26+0000
+_
+AXTBGv2_h7Xy-NmOTJJEG
+AXTBGv2_h7Xy-NmOTJJE	Sonar wayxml"XML(22020-09-24T17:13:25+0000
+csAXTBGvuxh7Xy-NmOTI89
+flexAXTBGv4fh7Xy-NmOTJKD
+javaAXTBGvz8h7Xy-NmOTJEd
+jsAXTBGv-Qh7Xy-NmOTJPp
+phpAXTBGwAbh7Xy-NmOTJRo
+pyAXTBGwG2h7Xy-NmOTJUZ
+tsAXTBGwJBh7Xy-NmOTJVd
+xmlAXTBGv2_h7Xy-NmOTJJE

@@ -1,8 +1,8 @@
+package Testador.Gradle;
 
 public class Calculadora {
-	
 	public int soma(int a, int b) {
-		return a + b + 112;
+		return a + b;
 	}
 	
 	public int divisao(int x, int y)
@@ -27,5 +27,4 @@ public class Calculadora {
 		    System.out.println(soma);
 		    System.out.println(mul);
 		  }
-
 }
